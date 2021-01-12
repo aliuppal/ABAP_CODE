@@ -7,3 +7,4 @@ REPORT ZTESTPRO8.
 
 WRITE: 'Hello Git'.
 WRITE: 'Hello Git Again!'.
+WRITE: 'Hello Git!!!!'.
